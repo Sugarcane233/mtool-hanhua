@@ -67,6 +67,12 @@ RPG Maker MV 自带的 `mplus-1m-regular-80.ttf` 只有 7,508 个码位，**缺 
 
 工具会把字体复制进 `www/fonts/` 并改写 `gamefont.css`（原文件留 `.bak` 备份）。
 
+## 下载
+
+不想自己打包，直接下编译好的 exe：
+
+https://github.com/Sugarcane233/mtool-hanhua/releases/latest
+
 ## 用法
 
 ```bash
